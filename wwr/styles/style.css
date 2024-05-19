@@ -1,7 +1,8 @@
 #content {
         max-width: 1600px;
-        margin: 0auto; 
+        margin: 0 auto; 
         text-align: center;
+}
 nav a {
     text-align: center;
     text-decoration: none;
@@ -19,7 +20,7 @@ main section {
     height: 725px;
 }
 body {
-    background-color: #6B705C;
+    background-color: white;
     color: #A5A58D;
 }
 header {
@@ -51,7 +52,6 @@ footer {
     background-color: #6B705C;
     color: white;
 }
-}
 #background {
     height: 725px;
 }
@@ -72,7 +72,7 @@ footer a:hover {
     color: white;
 }
 .logo {
-    width: 80xp;
+    width: 275px;
 }
 #hero-img {
     width: 100px;
