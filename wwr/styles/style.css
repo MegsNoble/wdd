@@ -59,7 +59,7 @@ nav a:hover {
 .msg {
     background-color: #6B705C;
     color: white;
-    font-family: Architects Daughter, Indie Flower, fantasy;
+    font-family: 'Architects Daughter', 'Indie Flower', 'fantasy';
     line-height: 1.5em;
     padding: 35px;
 }
@@ -74,7 +74,7 @@ footer {
 }
 .home-title {
     color: black;
-    font-family: Architects Daughter, Indie Flower, fantasy;
+    font-family: 'Architects Daughter', 'Indie Flower', 'fantasy';
     font-size: 2em;
     margin-top: 10px;
 }
