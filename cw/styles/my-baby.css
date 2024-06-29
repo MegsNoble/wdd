@@ -80,13 +80,10 @@ footer a {
     text-decoration: none;
 }
 :root {
-    /* change the values below to your colors from your palette */
     --primary-color: #A4C3B2  ;
     --secondary-color: #CCE3DE ;
     --accent1-color: #6B9080;
     --accent2-color: #EAF4F4;
-  
-    /* change the values below to your chosen font(s) */
     --heading-font: "'Architects Daughter', 'Indie Flower', 'fantasy'";
     --paragraph-font: Georgia, 'Times New Roman', Times, serif;
 }
