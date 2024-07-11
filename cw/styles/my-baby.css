@@ -24,6 +24,7 @@ ul, li {
 .logo {
      padding: 10px;
      width: 200px;
+     border-radius: 50%;
 }
 nav a:hover {
     color: #EAF4F4;
